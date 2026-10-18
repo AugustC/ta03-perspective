@@ -1,7 +1,7 @@
 [project]
 name = "ta03-perspective"
 version = "0.1.0"
-description = "Add your description here"
+description = "Retificação de documentos filmados (SmartDoc) por transformação de perspectiva com OpenCV"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
