@@ -37,6 +37,12 @@ na ordem `tl, tr, br, bl` são ignorados (com aviso).
 
 Os exemplos em `outs/datasheet001.avi` foram gerados com a versão anterior, equivalente a `--ratio frame`.
 
+## Análises do artigo
+
+A pasta `analise/` tem os scripts que geram os números e as figuras das análises do artigo
+(verificação da retificação, geometria dos quadros, proporção da saída, sensibilidade aos cantos,
+nitidez e tempo). Veja `analise/README.md`.
+
 ## Testes
 
 ```bash
